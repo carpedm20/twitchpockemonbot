@@ -10,7 +10,7 @@ HOST = "199.9.253.199"
 PORT = 6667
 
 NICK = 'carpedm20'
-PASS = 'oauth:rgfox58xdt1zzi0sblc58odou7nt6i1'
+PASS = ''
 IDENT = 'carpedm20'
 
 REALNAME = "carpedm20"
